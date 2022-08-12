@@ -1,0 +1,12 @@
+{
+    "products":[
+        {"id":1,"productName":"Screen Card","unitPrice":5000},
+        {"id":2,"productName":"Monitor","unitPrice":2500},
+        {"id":3,"productName":"Keyboard","unitPrice":450},
+        {"id":4,"productName":"Mouse","unitPrice":350},
+        {"id":5,"productName":"Processor","unitPrice":4500},
+        {"id":6,"productName":"Harddisk","unitPrice":500},
+        {"id":7,"productName":"Adapter","unitPrice":200},
+        {"id":8,"productName":"Powerbank","unitPrice":140}
+    ]
+}
