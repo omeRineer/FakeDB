@@ -8,5 +8,21 @@
         {"id":6,"productName":"Harddisk","unitPrice":500},
         {"id":7,"productName":"Adapter","unitPrice":200},
         {"id":8,"productName":"Powerbank","unitPrice":140}
+    ],
+
+    "users":[
+        {"id":"ax1","name":"Ragnar","age":35},
+        {"id":"ax2","name":"Lagertha","age":33},
+        {"id":"ax3","name":"Floki","age":32},
+        {"id":"ax4","name":"Rollo","age":30},
+        {"id":"ax5","name":"Ivar","age":20},
+        {"id":"ax6","name":"Bjorn","age":30}
+    ],
+
+    "categories":[
+        {"id":"cx1","categoryName":"Technology"},
+        {"id":"cx1","categoryName":"Kitchen"},
+        {"id":"cx1","categoryName":"Garden"},
+        {"id":"cx1","categoryName":"Game"}
     ]
 }
